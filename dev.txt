@@ -1,3 +1,9 @@
 This is a file on new branch name dev
 
+<<<<<<< HEAD
 these changes are made locally
+=======
+TIME IS 07:17
+
+these change is made remotely
+>>>>>>> b37ebcdbb00d40cd164d9d4a7918c5258e50dc4a
