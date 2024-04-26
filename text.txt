@@ -5,3 +5,4 @@ This is a text file on the master branch.
 changes done remotely
 
 both
+1 & 2 
